@@ -1,0 +1,9 @@
+﻿  CgetFacadeObj.cpp
+e:\code\vscode\22paper\skeletonline2objmodel\src\skeletonline2objmodellib\skeletonline2objmodellib\DataClass.h(19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+CgetFacadeObj.cpp(36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+CgetFacadeObj.cpp(139): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SkeletonLine2ObjModelLib.cpp
+e:\code\vscode\22paper\skeletonline2objmodel\src\skeletonline2objmodellib\skeletonline2objmodellib\DataClass.h(19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  SkeletonLine2ObjModelLib.vcxproj -> E:\CODE\VScode\22paper\SkeletonLine2ObjModel\src\SkeletonLine2ObjModelLib\x64\Release\SkeletonLine2ObjModelLib.exe
